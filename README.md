@@ -21,7 +21,7 @@ ML-энтузиаст с 3+ годами опыта. Фокус на прикл�
 *   **Межфакультетские курсы МГУ по ML/DL** (старт пути).
 
 ### ⚙️ Технологии
-**Python** | **PyTorch** | **OpenCV** | **scikit-learn** | **YOLO** | **Ultralytics** | **NumPy/pandas** | **Git** | **Docker** | **Linux**
+**Python** | **PyTorch** | **OpenCV** | **scikit-learn** | **YOLO** | **Ultralytics** | **NumPy/pandas** | **Git** | **Docker** | **Linux** | **Hadoop**
 
 ### 🚀 Другие хакатоны
 AgroCode DS Cup 2023 (5), Гагарин Хакатон 2024 (5), X-MAS HACK 2023 (6), TulaHack 2023 (6).
